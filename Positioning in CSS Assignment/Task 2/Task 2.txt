@@ -1,0 +1,8 @@
+Question: Explain the  difference between Absolute and Relative positioning.
+
+Answer: Position relative is used to position an element relatively to the normal position of the element by using top, 
+left, bottom, right to move. And in positone relative no other elements get affected.
+
+In Position Absolute the element get position relative to the nearest position ancestor amd if there is no positioned 
+element it get postiomed to document body. In Absolute the element gets removed from flow of the document and overlaps 
+the other element.

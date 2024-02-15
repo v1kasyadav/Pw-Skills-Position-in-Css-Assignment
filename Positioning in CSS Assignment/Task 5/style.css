@@ -1,0 +1,32 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+
+.box {
+    border: 1px black;
+    height: 100px;
+    width: 100px;
+}
+
+.boxA {
+    background-color: rgb(42, 113, 206);
+    position: relative;
+}
+
+.boxB {
+    background-color: rgb(180, 130, 228);
+    position: relative;
+    top: -50px;
+    left: 50px;
+    z-index: 1;
+}
+
+.boxC {
+    background-color: rgb(161, 240, 213);
+    position: relative;
+    top: -110px;
+    left: 100px;
+    z-index: 2;
+}

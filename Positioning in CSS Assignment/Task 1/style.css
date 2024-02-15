@@ -1,0 +1,50 @@
+.box {
+    border: 1px black;
+    height: 50px;
+    width:50px;
+    background-color: aqua;
+  }
+
+  .boxes {
+    border: 1px black;
+  }
+
+  .boxA {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+  }
+
+  .boxB {
+    position: absolute;
+    left: 170px;
+    top: 170px;
+  }
+  
+  .boxC {
+    position: absolute;
+    left: 230px;
+    top: 170px;
+  }
+
+  .boxD {
+    position: absolute;
+    left: 170px;
+    top: 230px;
+  }
+
+  .boxB {
+    position: absolute;
+    left: 170px;
+    top: 170px;
+  }
+
+  .boxE {
+    position: absolute;
+    left: 230px;
+    top: 230px;
+  }
+
+  .box p {
+    text-align: center;
+  }

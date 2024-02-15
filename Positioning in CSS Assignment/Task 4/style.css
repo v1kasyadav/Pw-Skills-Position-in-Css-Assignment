@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: sticky;
+    top: 0px;
+}
+
+.nav {
+    border: 1px black;
+    background-color: rgba(88, 34, 34, 1);
+    height: 50px;
+    padding: 15px;
+}
+
+a {
+    color: #fff;
+}
+
+h1{
+    display: inline-block;
+    color: #fff;
+}
+.home {
+    position: relative;
+    left: 730px;
+}
+
+.price {
+    position: relative;
+    left: 750px;
+}
+
+.contact {
+    position: relative;
+    left: 770px;
+}
+
+.TC {
+    position: relative;
+    left: 790px;
+}
+
+
+.start {
+    border: 2px solid rgb(224, 209, 140);
+    border-radius: 8px;
+    width: 90px;
+    padding: 5px;
+    padding-left: 20px;
+    position: relative;
+    left: 810px;
+    display: inline-block;
+}
+
+h2, p {
+    padding: 7px;
+}
+
